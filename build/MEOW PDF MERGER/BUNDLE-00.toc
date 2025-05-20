@@ -1,0 +1,3 @@
+([('MEOW PDF MERGER',
+   '/Users/ash/projects/PDF merger/dist/MEOW PDF MERGER',
+   'EXECUTABLE')],)
