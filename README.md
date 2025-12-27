@@ -51,7 +51,7 @@ PyInstaller를 이용해 단독 실행 파일(.app / .exe)을 만들 수 있습�
 pyinstaller "MEOW PDF MERGER.spec"
 
 # 또는 커스텀 빌드 커맨드
-pyinstaller --noconsole --onefile --windowed --name="MEOW PDF MERGER" --icon="meow-pdf.icns" --collect-all customtkinter --collect-all tkinterdnd2 ui_improved.py
+pyinstaller --noconsole --onefile --windowed --name="MEOW PDF MERGER" --icon="MEOW-PDF-MERGER_logo.icns" --collect-all customtkinter --collect-all tkinterdnd2 ui_improved.py
 ```
 
 ### ⚠️ 사용 시 주의 사항
